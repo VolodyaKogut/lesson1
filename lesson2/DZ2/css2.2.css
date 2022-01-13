@@ -1,0 +1,29 @@
+h1 {
+    background: #892726;
+    text-align: center;
+    color: #f8e7d4;
+}
+.d1 {
+    background: #c0c0c0;
+    box-sizing: border-box;
+    padding: 20px;
+}
+    
+.d2 {
+    background: #6395ec;
+    box-sizing: border-box;
+    height: 100px;
+    padding-top: 38px;
+
+}
+.d3 {
+    background: #6bba67;
+    height: 200px;
+    width: 150px;
+}
+.d4 {
+    background: #8886ab;
+    height: 150px;
+    width: 150px;
+    border-radius: 20px;
+}
