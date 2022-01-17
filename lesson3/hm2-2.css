@@ -1,0 +1,39 @@
+.t31 {
+    background: #2269bb;
+    width: 650px;
+    height: 250px;
+    text-align: center;
+    /*padding-top: 100px ;*/
+
+}
+.t1 {
+    padding: 100px;
+    font-size: 200%;
+    color: #fffff4;
+}
+.t33 {
+    width: 200px;
+    height: 250px;
+    background: #16457a;
+    text-align: center;
+
+
+}
+.t32 {
+    display: flex;
+    justify-content: space-between;
+    width: 650px;
+    margin-top: 30px;
+    /*margin-bottom: 10px;*/
+}
+.t2 {
+    font-size: 150%;
+    padding-top: 85px;
+    color: whitesmoke;
+}
+.t34 {
+    background: #2269bb;
+    width: 650px;
+    height: 250px;
+    text-align: center;
+}
