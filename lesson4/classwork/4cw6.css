@@ -1,0 +1,36 @@
+.cont_top {
+width: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 10px;
+    row-gap: 10px;
+
+
+}
+.head {
+    width: 240px;
+    height: 320px;
+    background: #2269bb;
+
+}
+.kabobs {
+    width: 490px;
+    height: 200px;
+    background: #246abb;
+}
+.menu_footer {
+    width: 157px;
+    height: 200px;
+    background: #18467b;
+
+}
+.a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.txt {
+    font-size: 20px;
+    color: #9fe2ff;
+}

@@ -1,0 +1,55 @@
+.br_1_bl {
+    border: 1px solid black;
+}
+.post_bg {
+    background: #9fe2ff;
+}
+.boxs_b_b {
+    box-sizing: border-box;
+}
+
+.header {
+    width: 295px;
+    height: 50px;
+    background: #e6f7b1;
+    text-align: center;
+    margin: 5px;
+}
+
+.mid {
+    width: 300px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    
+}
+
+.menu {
+    width: 100px;
+    height: 295px;
+    background: #ffb7ff;
+    margin: 5px;
+
+}
+
+.post {
+    width: 195px;
+    height: 145px;
+    text-align: center;
+
+}
+.post1{
+    width: 195px;
+    height: 145px;
+    text-align: center;
+    margin-top: 5px;
+    padding-top: 40px;
+
+}
+.footer {
+    width: 295px;
+    height: 50px;
+    background: #ffffca;
+    text-align: center;
+    margin: 5px;
+}

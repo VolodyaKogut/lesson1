@@ -1,0 +1,30 @@
+.bg_s {
+    background: silver;
+}
+.container {
+    height: 300px;
+    width: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    border: 2px solid black;
+}
+.a1 {
+    width: 100%;
+}
+.b1 {
+    width: 80%;
+}
+.c1 {
+    width: 18%;
+}
+.mrg {
+    margin: 2px;
+}
+.disp_fl_centr {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.br5 {
+    border-radius: 5px;
+}

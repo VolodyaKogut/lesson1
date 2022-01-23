@@ -1,0 +1,33 @@
+.cont_top {
+width: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    /*background: silver;*/
+    column-gap: 10px;
+    row-gap: 10px;
+
+
+}
+.home {
+    width: 240px;
+    height: 320px;
+    background: #2269bb;
+
+}
+.kabobs {
+    width: 490px;
+    height: 200px;
+    background: #246abb;
+}
+.menu_footer {
+    width: 157px;
+    height: 200px;
+    background: #18467b;
+
+}
+.a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
