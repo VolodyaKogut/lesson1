@@ -58,6 +58,10 @@
     margin-top: 10px;
 
 }
+.man {
+    display: flex;
+    column-gap: 10px;
+}
 .main_menu {
     display: flex;
     flex-wrap: wrap;
